@@ -1,13 +1,3 @@
-#Ketra - Android Information Tool
-
-╔═══════════════════════════════════════════╗
-║                 K E T R A                  ║
-║         Android Information Tool           ║
-║                                           ║
-║  Author: kcyb3r                           ║
-║  Version: 1.0                             ║
-╚═══════════════════════════════════════════╝
-    
 
 Ketra - Android Information Gatherer
 ==================================
