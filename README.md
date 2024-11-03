@@ -1,9 +1,4 @@
-# first connect your android to adb.
-# then clone this tool on your machine.
-# and enjoy the features of tool
-
-
-
+#Ketra - Android Information Tool
 
 ╔═══════════════════════════════════════════╗
 ║                 K E T R A                  ║
@@ -28,3 +23,6 @@ Ketra - Android Information Gatherer
 10. Exit
 
 Ketra > 
+
+
+
