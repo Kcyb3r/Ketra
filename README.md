@@ -1,5 +1,6 @@
 
 Ketra - Android Information Gatherer
+Features
 ==================================
 1. Get Basic Device Info
 2. Get System Info
@@ -14,5 +15,8 @@ Ketra - Android Information Gatherer
 
 Ketra > 
 
-
-
+# Installation
+1. sudo apt-get update -y
+2. sudo apt-get upgrade -y
+3. chmod +x req.sh
+4. ./req.sh 
