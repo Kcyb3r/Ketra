@@ -15,8 +15,10 @@ Features
 
 Ketra > 
 
-# Installation
-1. sudo apt-get update -y
-2. sudo apt-get upgrade -y
-3. chmod +x req.sh
-4. ./req.sh 
+# Installation Guide
+1. sudo apt update -y
+2. git clone https://github.com/kcyb3r/Ketra
+3. cd Ketra
+4. chmod +x req.sh
+5. ./req.sh
+6. python3 ketra.py
